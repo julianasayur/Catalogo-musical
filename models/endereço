@@ -1,0 +1,11 @@
+module.exports = {
+    dialect: 'postgress',
+    host: 'localhost',
+    username:'usuario',
+    password:'senha',
+    database: 'api-node',
+    define: {
+        timetamps: true
+      
+    }
+}
